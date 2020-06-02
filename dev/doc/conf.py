@@ -20,7 +20,7 @@
 project = 'Testus Projectus'
 copyright = '2020, Bradley Scrim'
 author = 'Bradley Scrim'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
